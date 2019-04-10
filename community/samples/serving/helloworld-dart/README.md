@@ -38,7 +38,7 @@ be created using the following instructions.
    Docker or Knative, you can skip this step.
 
    ```shell
-   pub get
+   > pub get
    ```
 
 3. Create a new file `bin/main.dart` and write the following code:
