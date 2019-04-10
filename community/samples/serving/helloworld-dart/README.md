@@ -37,7 +37,7 @@ be created using the following instructions.
 2. If you want to run locally, install dependencies. If you only want to run in
    Docker or Knative, you can skip this step.
 
-   ```shell
+   ```console
    > pub get
    ```
 
